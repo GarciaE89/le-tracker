@@ -6,7 +6,7 @@ const db = mysql.createConnection(
       
       user: 'root',
       
-      password: 'September2019!',
+      password: '',
       database: 'golden_sachs'
     },
     console.log('database access granted')
